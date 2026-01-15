@@ -1,0 +1,3 @@
+Git is a version control system. 
+Github is a platform for hostinh Git repositories 
+THis file is added to complete my GIthub assignment 
